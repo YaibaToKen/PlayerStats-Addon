@@ -1,0 +1,14 @@
+[{
+  "modid": "ps2addon",
+  "name": "Player Stats 2 Addon",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "logoFile": "",
+  "authorList": ["YaibaToKen"],
+  "credits": "The creators and maintainers of Forge and FML as well as those of PlayerStats2",
+  "screenshots": [],
+  "dependencies": []
+}]
