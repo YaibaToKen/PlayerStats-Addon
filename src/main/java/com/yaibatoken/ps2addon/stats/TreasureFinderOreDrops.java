@@ -28,58 +28,68 @@ public class TreasureFinderOreDrops {
         addOreDrop("Gold", 10, true, false, false);
 
         //Substratum Ores
-        addOreDrop("Copper", 3, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Tin", 3, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Nickel", 7, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Zinc", 7, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Silver", 8, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Lead", 8, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Platinum", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Alumina", 4, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Chromium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
+        addOreDrop("Copper", 5);
+        addOreDrop("Tin", 5);
+        addOreDrop("Nickel", 10);
+        addOreDrop("Zinc", 10);
+        addOreDrop("Silver", 10);
+        addOreDrop("Lead", 10);
+        addOreDrop("Platinum", 15);
+        addOreDrop("Alumina", 5);
+        addOreDrop("Chromium", 15);
+
+        //Ars Magica 2 Ores
+        addOreDrop("Vinteum", 10);
+        addOreDrop("Chimerite", 15);
+        addOreDrop("Blue Topaz", 20);
+        addOreDrop("Moonstone", 25);
+        addOreDrop("Sunstone", 30);
 
         //Base Metals Ores
-        addOreDrop("Mercury", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("ColdIron", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Adamantine", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("StarSteel", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
+        addOreDrop("Mercury", 15);
+        addOreDrop("ColdIron", 20);
+        addOreDrop("Adamantine", 30);
+        addOreDrop("StarSteel", 40);
 
         //Modern Metals Ores
-        addOreDrop("Aluminum", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Cadmium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Iridium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Magnesium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Manganese", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Nichrome", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Osmium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Plutonium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Rutile", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Tantalum", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Titanium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Tungsten", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Uranium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Zirconium", 15, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
+        addOreDrop("Aluminum", 10);
+        addOreDrop("Cadmium", 15);
+        addOreDrop("Iridium", 15);
+        addOreDrop("Magnesium", 10);
+        addOreDrop("Manganese", 10);
+        addOreDrop("Nichrome", 15);
+        addOreDrop("Osmium", 15);
+        addOreDrop("Plutonium", 20);
+        addOreDrop("Rutile", 20);
+        addOreDrop("Tantalum", 15);
+        addOreDrop("Titanium", 25);
+        addOreDrop("Tungsten", 15);
+        addOreDrop("Uranium", 25);
+        addOreDrop("Zirconium", 15);
+
+        //Immersive Engineering Ores
+        addOreDrop("Bauxite", 10);
 
         //TAIGA'S Ores
-        addOreDrop("Tiberium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Aurorium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Prometheum", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Duranite", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Valyrium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Vibranium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Karmesine", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Ovium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Jauxum", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Palladium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Uru", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Osram", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Eezo", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Abyssum", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Dilithium", 30, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
+        addOreDrop("Tiberium", 30);
+        addOreDrop("Aurorium", 30);
+        addOreDrop("Prometheum", 30);
+        addOreDrop("Duranite", 30);
+        addOreDrop("Valyrium", 30);
+        addOreDrop("Vibranium", 30);
+        addOreDrop("Karmesine", 30);
+        addOreDrop("Ovium", 30);
+        addOreDrop("Jauxum", 30);
+        addOreDrop("Palladium", 30);
+        addOreDrop("Uru", 30);
+        addOreDrop("Osram", 30);
+        addOreDrop("Eezo", 30);
+        addOreDrop("Abyssum", 30);
+        addOreDrop("Dilithium", 30);
 
         //Tinker's Construct Ores
-        addOreDrop("Cobalt", 20, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
-        addOreDrop("Ardite", 20, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
+        addOreDrop("Cobalt", 20);
+        addOreDrop("Ardite", 20);
     }
 
     private static void addOreDictDrop(String name, float chance, int minLevel){
@@ -98,5 +108,9 @@ public class TreasureFinderOreDrops {
         if(ore) addOreDictDrop("ore" + name, ORE_CHANCE, minLevel);
         if(ingot) addOreDictDrop("ingot" + name, INGOT_CHANCE, minLevel, INGOT_AMOUNT);
         if(nugget) addOreDictDrop("nugget" + name, NUGGET_CHANCE, minLevel, NUGGET_AMOUNT);
+    }
+
+    private static void addOreDrop(String name, int minLevel){
+        addOreDrop(name, minLevel, NUGGET_ENABLE, INGOT_ENABLE, ORE_ENABLE);
     }
 }
